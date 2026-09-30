@@ -136,7 +136,7 @@ These features are used to study whether geometric relationships between adjacen
 
 ## Boundary-Condition Labels
 
-The dataset contains three face-level classes:
+The dataset should contains three face-level classes by the intent of engineer:
 
 |Label|Meaning|
 |-:|-|
