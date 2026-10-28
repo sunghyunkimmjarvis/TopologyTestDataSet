@@ -1,0 +1,5 @@
+﻿excel_file,use_coordinate,model,n_seeds,node_acc_mean,node_acc_std,macro_f1_mean,macro_f1_std,geometry_strict_mean,geometry_strict_std
+TestDataResult_Excel\\Bolt_without_Coordinate.xlsx,False,MLP,5,1.0,0.0,1.0,0.0,1.0,0.0
+TestDataResult_Excel\\Bolt_without_Coordinate.xlsx,False,GCN,5,0.998632,0.001224,0.995801,0.00378,0.976744,0.020801
+TestDataResult_Excel\\Bolt_without_Coordinate.xlsx,False,GraphSAGE,5,1.0,0.0,1.0,0.0,1.0,0.0
+TestDataResult_Excel\\Bolt_without_Coordinate.xlsx,False,GIN,5,0.999453,0.00067,0.998328,0.002048,0.990698,0.011393

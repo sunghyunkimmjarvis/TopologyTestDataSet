@@ -1,0 +1,5 @@
+﻿excel_file,use_coordinate,model,n_seeds,node_acc_mean,node_acc_std,macro_f1_mean,macro_f1_std,geometry_strict_mean,geometry_strict_std
+TestDataResult_Excel\\cantilever.xlsx,True,MLP,5,0.989443,0.001297,0.98701,0.001617,0.936657,0.007781
+TestDataResult_Excel\\cantilever.xlsx,True,GCN,5,0.990811,0.006908,0.988418,0.008834,0.944868,0.041448
+TestDataResult_Excel\\cantilever.xlsx,True,GraphSAGE,5,0.999902,0.000196,0.999878,0.000245,0.999413,0.001173
+TestDataResult_Excel\\cantilever.xlsx,True,GIN,5,0.999609,0.000366,0.999512,0.000456,0.997654,0.002195

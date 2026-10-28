@@ -1,0 +1,6 @@
+﻿excel_file,use_coordinate,edge_features,model,n_seeds,node_acc_mean,node_acc_std,macro_f1_mean,macro_f1_std,geometry_strict_mean,geometry_strict_std
+TestDataResult_Excel\\BookShelves_EDGE_Feat.xlsx,True,"convexity_code,dihedral_angle_deg,shared_edge_length,edge_type_line,edge_type_arc,edge_type_spline",MLP,5,0.99987,0.000173,0.99954,0.000613,0.997403,0.003463
+TestDataResult_Excel\\BookShelves_EDGE_Feat.xlsx,True,"convexity_code,dihedral_angle_deg,shared_edge_length,edge_type_line,edge_type_arc,edge_type_spline",GCN,5,0.999827,0.000162,0.999388,0.000574,0.996537,0.00324
+TestDataResult_Excel\\BookShelves_EDGE_Feat.xlsx,True,"convexity_code,dihedral_angle_deg,shared_edge_length,edge_type_line,edge_type_arc,edge_type_spline",GraphSAGE,5,0.999913,0.000106,0.999694,0.000375,0.998268,0.002121
+TestDataResult_Excel\\BookShelves_EDGE_Feat.xlsx,True,"convexity_code,dihedral_angle_deg,shared_edge_length,edge_type_line,edge_type_arc,edge_type_spline",GIN,5,0.99961,0.000397,0.99862,0.001407,0.992208,0.007935
+TestDataResult_Excel\\BookShelves_EDGE_Feat.xlsx,True,"convexity_code,dihedral_angle_deg,shared_edge_length,edge_type_line,edge_type_arc,edge_type_spline",GINE,5,0.999913,0.000173,0.999838,0.000323,0.998268,0.003463

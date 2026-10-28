@@ -1,0 +1,5 @@
+﻿excel_file,use_coordinate,model,n_seeds,node_acc_mean,node_acc_std,macro_f1_mean,macro_f1_std,geometry_strict_mean,geometry_strict_std
+TestDataResult_Excel\\Flange.xlsx,True,MLP,5,1.0,0.0,1.0,0.0,1.0,0.0
+TestDataResult_Excel\\Flange.xlsx,True,GCN,5,0.995013,0.000875,0.989329,0.001955,0.940566,0.011002
+TestDataResult_Excel\\Flange.xlsx,True,GraphSAGE,5,1.0,0.0,1.0,0.0,1.0,0.0
+TestDataResult_Excel\\Flange.xlsx,True,GIN,5,1.0,0.0,1.0,0.0,1.0,0.0

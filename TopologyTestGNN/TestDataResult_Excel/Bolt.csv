@@ -1,0 +1,5 @@
+﻿excel_file,use_coordinate,model,n_seeds,node_acc_mean,node_acc_std,macro_f1_mean,macro_f1_std,geometry_strict_mean,geometry_strict_std
+TestDataResult_Excel\\Bolt.xlsx,True,MLP,5,0.999726,0.000547,0.998449,0.003101,0.995349,0.009302
+TestDataResult_Excel\\Bolt.xlsx,True,GCN,5,0.999179,0.001094,0.997563,0.003242,0.986047,0.018605
+TestDataResult_Excel\\Bolt.xlsx,True,GraphSAGE,5,0.999179,0.001094,0.996062,0.006009,0.986047,0.018605
+TestDataResult_Excel\\Bolt.xlsx,True,GIN,5,0.999179,0.00067,0.997528,0.002019,0.986047,0.011393

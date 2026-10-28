@@ -1,0 +1,5 @@
+﻿excel_file,use_coordinate,model,n_seeds,node_acc_mean,node_acc_std,macro_f1_mean,macro_f1_std,geometry_strict_mean,geometry_strict_std
+TestDataResult_Excel\\BookShelves.xlsx,True,MLP,5,0.99987,0.000173,0.99954,0.000613,0.997403,0.003463
+TestDataResult_Excel\\BookShelves.xlsx,True,GCN,5,0.999784,0.000237,0.999233,0.000842,0.995671,0.004742
+TestDataResult_Excel\\BookShelves.xlsx,True,GraphSAGE,5,0.999957,8.7e-05,0.999847,0.000306,0.999134,0.001732
+TestDataResult_Excel\\BookShelves.xlsx,True,GIN,5,0.999654,0.000505,0.998765,0.001803,0.993074,0.010097

@@ -1,0 +1,5 @@
+﻿excel_file,use_coordinate,model,n_seeds,node_acc_mean,node_acc_std,macro_f1_mean,macro_f1_std,geometry_strict_mean,geometry_strict_std
+TestDataResult_Excel\\Flange_without_Coordinate.xlsx,False,MLP,5,0.921775,0.002176,0.707783,0.007444,0.082075,0.012866
+TestDataResult_Excel\\Flange_without_Coordinate.xlsx,False,GCN,5,0.918457,0.001336,0.702655,0.010932,0.030189,0.008749
+TestDataResult_Excel\\Flange_without_Coordinate.xlsx,False,GraphSAGE,5,0.925816,0.00253,0.734212,0.003769,0.117925,0.019102
+TestDataResult_Excel\\Flange_without_Coordinate.xlsx,False,GIN,5,0.924713,0.002024,0.723608,0.011001,0.106604,0.013208

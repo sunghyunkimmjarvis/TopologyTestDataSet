@@ -1,0 +1,6 @@
+﻿excel_file,use_coordinate,edge_features,model,n_seeds,node_acc_mean,node_acc_std,macro_f1_mean,macro_f1_std,geometry_strict_mean,geometry_strict_std
+TestDataResult_Excel\\LshapedBracket_noCoord_yesEdgeFeat.xlsx,False,"convexity_code,dihedral_angle_deg,shared_edge_length,edge_type_line,edge_type_arc,edge_type_spline",MLP,5,1.0,0.0,1.0,0.0,1.0,0.0
+TestDataResult_Excel\\LshapedBracket_noCoord_yesEdgeFeat.xlsx,False,"convexity_code,dihedral_angle_deg,shared_edge_length,edge_type_line,edge_type_arc,edge_type_spline",GCN,5,0.999873,0.000254,0.999657,0.000687,0.998095,0.00381
+TestDataResult_Excel\\LshapedBracket_noCoord_yesEdgeFeat.xlsx,False,"convexity_code,dihedral_angle_deg,shared_edge_length,edge_type_line,edge_type_arc,edge_type_spline",GraphSAGE,5,1.0,0.0,1.0,0.0,1.0,0.0
+TestDataResult_Excel\\LshapedBracket_noCoord_yesEdgeFeat.xlsx,False,"convexity_code,dihedral_angle_deg,shared_edge_length,edge_type_line,edge_type_arc,edge_type_spline",GIN,5,0.999873,0.000254,0.999657,0.000687,0.998095,0.00381
+TestDataResult_Excel\\LshapedBracket_noCoord_yesEdgeFeat.xlsx,False,"convexity_code,dihedral_angle_deg,shared_edge_length,edge_type_line,edge_type_arc,edge_type_spline",GINE,5,0.999873,0.000254,0.999657,0.000687,0.998095,0.00381

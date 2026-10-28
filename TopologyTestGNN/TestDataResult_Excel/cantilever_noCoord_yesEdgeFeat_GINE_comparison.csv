@@ -1,0 +1,6 @@
+﻿excel_file,use_coordinate,edge_features,model,n_seeds,node_acc_mean,node_acc_std,macro_f1_mean,macro_f1_std,geometry_strict_mean,geometry_strict_std
+TestDataResult_Excel\\cantilever_noCoord_yesEdgeFeat.xlsx,False,"convexity_code,dihedral_angle_deg,shared_edge_length,edge_type_line,edge_type_arc,edge_type_spline",MLP,5,0.666667,0.0,0.471375,0.001122,0.0,0.0
+TestDataResult_Excel\\cantilever_noCoord_yesEdgeFeat.xlsx,False,"convexity_code,dihedral_angle_deg,shared_edge_length,edge_type_line,edge_type_arc,edge_type_spline",GCN,5,0.666667,0.0,0.400851,0.005773,0.0,0.0
+TestDataResult_Excel\\cantilever_noCoord_yesEdgeFeat.xlsx,False,"convexity_code,dihedral_angle_deg,shared_edge_length,edge_type_line,edge_type_arc,edge_type_spline",GraphSAGE,5,0.666667,0.0,0.470867,0.000736,0.0,0.0
+TestDataResult_Excel\\cantilever_noCoord_yesEdgeFeat.xlsx,False,"convexity_code,dihedral_angle_deg,shared_edge_length,edge_type_line,edge_type_arc,edge_type_spline",GIN,5,0.666667,0.0,0.466995,0.002437,0.0,0.0
+TestDataResult_Excel\\cantilever_noCoord_yesEdgeFeat.xlsx,False,"convexity_code,dihedral_angle_deg,shared_edge_length,edge_type_line,edge_type_arc,edge_type_spline",GINE,5,0.666667,0.0,0.47184,0.000481,0.0,0.0
